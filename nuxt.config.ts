@@ -3,7 +3,8 @@ export default defineNuxtConfig({
   css: ['bulma'],
   modules: ['nuxt-gtag'],
   gtag: {
-    id: 'G-XXXXXXXXXX'
+    id: 'G-QL6QMXELJ9',
+    anonymize_ip: true,
   },
   runtimeConfig: {
     previewModeEncryptionSecret:
