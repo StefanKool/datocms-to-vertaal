@@ -6,7 +6,15 @@
   </main>
 </template>
 
-<style scoped>
+<style lang="scss">
+a {
+  color: #7dac00;
+  &:hover {
+    color: #7dac00;
+    text-decoration: underline;
+  }
+}
+
 .main {
   display: flex;
   flex-direction: column;
