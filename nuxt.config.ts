@@ -1,6 +1,10 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   css: ['bulma'],
+  modules: ['nuxt-gtag'],
+  gtag: {
+    id: 'G-XXXXXXXXXX'
+  },
   runtimeConfig: {
     previewModeEncryptionSecret:
       // !> Before releasing to production, see the README
