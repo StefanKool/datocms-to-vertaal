@@ -13,10 +13,10 @@
       </div>
       <div :class="['navbar-menu', navbarOpen && 'is-active']">
         <div class="navbar-end">
-          <nuxt-link class="navbar-item is-active is-size-5" to="/">
+          <nuxt-link class="navbar-item is-active is-size-6" to="/">
             NL <img class="icon-flag" src="/nl.svg" alt="Flag icon nl" width="16" height="16" loading="lazy" />
           </nuxt-link>
-          <nuxt-link class="navbar-item is-size-5" to="/en">
+          <nuxt-link class="navbar-item is-size-6" to="/en">
             EN <img class="icon-flag" src="/gb.svg" alt="Flag icon gb" width="16" height="16" loading="lazy" />
           </nuxt-link>
         </div>
