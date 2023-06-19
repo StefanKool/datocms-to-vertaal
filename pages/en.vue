@@ -30,7 +30,7 @@ To-Vertaal to translate for you.<br> We translate with passion and skill, we del
                 </p>
               </div>
               <div class="column is-2">
-                <img src="/toby-portret.jpg" alt="Logo" width="104" height="157" loading="lazy" />
+                <img class="img-portret" src="/toby-portret.jpg" alt="Logo" width="104" height="157" loading="lazy" />
               </div>
             </div>
           </div>
@@ -42,12 +42,3 @@ To-Vertaal to translate for you.<br> We translate with passion and skill, we del
 <script setup lang="ts">
 
 </script>
-
-<style scoped>
-.section--wip {
-  text-align: center;
-}
-.section--wip img {
-  display: inline-block;
-}
-</style>

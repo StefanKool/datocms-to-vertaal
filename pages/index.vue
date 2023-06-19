@@ -29,7 +29,7 @@
                 </p>
               </div>
               <div class="column is-2">
-                <img src="/toby-portret.jpg" alt="Logo" width="104" height="157" loading="lazy" />
+                <img class="img-portret" src="/toby-portret.jpg" alt="Logo" width="104" height="157" loading="lazy" />
               </div>
             </div>
           </div>
@@ -42,11 +42,14 @@
 
 </script>
 
-<style scoped>
+<style>
 .section--wip {
   text-align: center;
 }
 .section--wip img {
   display: inline-block;
+}
+.img-portret {
+  vertical-align: text-top;
 }
 </style>
