@@ -42,3 +42,15 @@ To-Vertaal to translate for you.<br> We translate with passion and skill, we del
 <script setup lang="ts">
 
 </script>
+
+<style>
+.section--wip {
+  text-align: center;
+}
+.section--wip img {
+  display: inline-block;
+}
+.img-portret {
+  vertical-align: text-top;
+}
+</style>
