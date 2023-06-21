@@ -1,0 +1,3 @@
+# manage old page urls and redirect them to new
+/nl/to-vertaal/         /              301
+/en/to-vertaal/         /en/             301
