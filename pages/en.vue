@@ -24,7 +24,7 @@ To-Vertaal to translate for you.<br> We translate with passion and skill, we del
                 <p class="is-size-6">
                   <span class="has-text-weight-semibold">Mobile:</span> +31 6-41766810<br>
 
-                  <span class="has-text-weight-semibold">E-mail:</span> <a href="mailto:info@to-vertaal.nl">info@to-vertaal.nl</a><br>
+                  <span class="has-text-weight-semibold">Email:</span> <a href="mailto:info@to-vertaal.nl">info@to-vertaal.nl</a><br>
 
                   <span class="has-text-weight-semibold">Chamber of Commerce:</span> 14106065<br>
                 </p>

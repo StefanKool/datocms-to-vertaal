@@ -21,11 +21,11 @@
                 <h3 class="is-size-6">Wenst u meer informatie omtrent een vertaling of een vrijblijvende offerte, neem dan gerust contact op via:</h3><br>
                 <h2 class="has-text-weight-semibold is-size-5">Vertaalbureau To-Vertaal<br> Toby Houben</h2><br>
                 <p class="is-size-6">
-                  <span class="has-text-weight-semibold">Mobile:</span> +31 6-41766810<br>
+                  <span class="has-text-weight-semibold">Mobiel:</span> +31 6-41766810<br>
 
                   <span class="has-text-weight-semibold">E-mail:</span> <a href="mailto:info@to-vertaal.nl">info@to-vertaal.nl</a><br>
 
-                  <span class="has-text-weight-semibold">Chamber of Commerce:</span> 14106065<br>
+                  <span class="has-text-weight-semibold">Kamer van koophandel:</span> 14106065<br>
                 </p>
               </div>
               <div class="column is-2">
