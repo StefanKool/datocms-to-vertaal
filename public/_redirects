@@ -1,3 +1,8 @@
 # manage old page urls and redirect them to new
 /nl/to-vertaal/         /              301
-/en/to-vertaal/         /en/             301
+/nl/vertalers/          /              301
+/nl/contact/            /              301
+
+/en/to-vertaal/         /en/           301
+/en/contact/            /en/           301
+
