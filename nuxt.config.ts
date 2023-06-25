@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   css: ['bulma'],
   modules: ['nuxt-gtag'],
   gtag: {
-    id: 'G-QL6QMXELJ9',
+    id: 'G-4RWLB06T7S',
     anonymize_ip: true,
   },
   runtimeConfig: {
